@@ -13,7 +13,7 @@ A homelab Active Directory environment built on VirtualBox that simulates a smal
 - **Clients:** WIN10-Retail01, WIN10-Warehouse01
 - **Network:** Host-only + NAT; DHCP (scope plan in `configs/dhcp/`)
 
-! [OU Structure]
+![OU Structure]
 
 ## Key Features Implemented
 - Departmental OUs with delegated controls
